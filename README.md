@@ -149,11 +149,3 @@ This script and associated documentation are confidential and must not be shared
 3. **Service Commands Fail**:
    - Use `sudo` for commands requiring elevated privileges.
 
-### Support
-For further assistance, contact the system administrator or refer to the `docs/README.md` file in the repository.
-
----
-
-## License
-This project is licensed under [LICENSE_TYPE]. Refer to the `LICENSE` file in the repository for details.
-
